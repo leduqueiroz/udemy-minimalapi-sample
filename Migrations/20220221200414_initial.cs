@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace MinimalApi.Migrations
+namespace UdemySolidMinimalAPI.Migrations
 {
     public partial class initial : Migration
     {

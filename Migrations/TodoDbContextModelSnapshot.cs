@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace MinimalApi.Migrations
+namespace UdemySolidMinimalAPI.Migrations
 {
     [DbContext(typeof(TodoDbContext))]
     partial class TodoDbContextModelSnapshot : ModelSnapshot

@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace MinimalApi.Migrations
+namespace UdemySolidMinimalAPI.Migrations
 {
     [DbContext(typeof(TodoDbContext))]
     [Migration("20220221200414_initial")]
